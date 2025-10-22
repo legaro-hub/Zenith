@@ -1,0 +1,43 @@
+{
+  "appName": "Zenith",
+  "appDescription": "Your space for mindfulness",
+  "meditationDuration": "{{minutes}} minutes",
+  "timeLeft": "Time Left",
+  "dayStreak": "Day Streak",
+  "totalTime": "Total Time",
+  "achievements": "Achievements",
+  "footerText": "Crafted for tranquility. Find your inner peace.",
+  "startSession": "Start Session",
+  "pauseSession": "Pause Session",
+  "stopSession": "Stop Session",
+  "tabs": {
+    "meditation": "Meditation",
+    "achievements": "Achievements"
+  },
+  "achievementsData": {
+    "first_step": {
+      "name": "It Ain't Much...",
+      "description": "...but it's honest work. You've completed your first session."
+    },
+    "mindful_hour": {
+      "name": "I Need a Hero",
+      "description": "Meditated for 1 hour. You held out for more than just a hero."
+    },
+    "dedicated_day": {
+      "name": "My Precious",
+      "description": "24 hours of meditation. You guard your inner peace like the One Ring."
+    },
+    "three_day_calm": {
+      "name": "This is Where the Fun Begins",
+      "description": "A 3-day streak. Your journey into a larger world has begun."
+    },
+    "weekly_zen": {
+      "name": "One Does Not Simply Miss a Day",
+      "description": "A 7-day streak. You've walked the path of consistency."
+    },
+    "monthly_master": {
+      "name": "I Am Inevitable",
+      "description": "A 30-day streak. Your dedication is... inevitable."
+    }
+  }
+}
